@@ -1,0 +1,29 @@
+﻿Build started 15.03.2012 12:26:11.
+Project "D:\Вчусь\GL\GL_Base_Camp\task\Наслідування\task9\task9\task9.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\task9.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  f:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\task9.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+  stdafx.cpp
+  f:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\task9.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt task9.cpp
+  task9.cpp
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\task9.exe.embed.manifest.res" Debug\task9_manifest.rc 
+Link:
+  f:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Вчусь\GL\GL_Base_Camp\task\Наслідування\task9\Debug\task9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\task9.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Вчусь\GL\GL_Base_Camp\task\Наслідування\task9\Debug\task9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Вчусь\GL\GL_Base_Camp\task\Наслідування\task9\Debug\task9.lib" /MACHINE:X86 Debug\task9.exe.embed.manifest.res
+  Debug\stdafx.obj
+  Debug\task9.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\task9.exe.embed.manifest" /manifest Debug\task9.exe.intermediate.manifest
+  All outputs are up-to-date.
+LinkEmbedManifest:
+  All outputs are up-to-date.
+  task9.vcxproj -> D:\Вчусь\GL\GL_Base_Camp\task\Наслідування\task9\Debug\task9.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\task9.unsuccessfulbuild".
+  Touching "Debug\task9.lastbuildstate".
+Done Building Project "D:\Вчусь\GL\GL_Base_Camp\task\Наслідування\task9\task9\task9.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.09
